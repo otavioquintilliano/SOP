@@ -1,0 +1,50 @@
+
+cd Lazer
+del Lazer
+Del Projetos
+mkdir Pessoais]
+mkdir Projetos
+ren Pessoais Lazer
+cd Pessoais
+ren Pessoais] Lazer
+cd Lazer
+echo Viagem.txt >> Lazer
+echo Viagem.txt >> Italia,franca, inglaterra, suica, dinamarca
+type Lazer
+echo italia,franca,inglaterra,suica,dinamarca >>Viagem.txt
+copy con
+italia
+franca
+inglaterra
+suica
+dinamarca
+copy con
+italia
+franca
+inglaterra
+suica
+dinamarca
+copy con Lazer
+Italia
+Franca
+Suica
+Inglaterra
+Dinamarca
+
+cd ..
+dir
+cd Lazer
+dir
+cd ..
+cd Lazer
+copy con Viagem.txt
+Italia
+Franca
+Inglaterra
+Suica
+Dinamarca
+cd..
+doskey /h
+doeskey /h >> OtavioQuintilliano.txt
+dosley /h >> OtavioQuintilliano.txt
+doskey /h >>OtavioQuintilliano.txt
