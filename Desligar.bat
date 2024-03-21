@@ -1,3 +1,5 @@
 @echo off
 cls
-shutdown /s 
+shutdown /s /t 10 /c "O computador ira desligar"
+
+exit 
